@@ -9,5 +9,6 @@ docker with nginx
 
 ## Modified default.conf
 
+- html root path: /www/public
 - Adding support for handling with php file
 - Adding support for hiding index.php url string
