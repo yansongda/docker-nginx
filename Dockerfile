@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:stable
 MAINTAINER yansongda <me@yansongda.cn>
 
 WORKDIR /www
